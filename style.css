@@ -8,6 +8,7 @@ body {
   background: #2C2B3D;
   width: 1280px;
   min-height: 100vh;
+  margin: 71px auto 23px;
 }
 
 #container {
@@ -94,9 +95,9 @@ footer p a{
   text-decoration: none;
 }
 
-/* #padlock {
+#padlock {
   position: fixed;
   bottom: 0;
   left: 0;
   margin: 20px;
-} */
+}
